@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "W"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:tropical_fish"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:tropical_fish_bucket",
+        "count": 1
+    }
+}

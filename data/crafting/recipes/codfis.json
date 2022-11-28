@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "W"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:cod"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:cod_bucket",
+        "count": 1
+    }
+}
